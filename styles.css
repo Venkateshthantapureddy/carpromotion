@@ -355,3 +355,10 @@ body {
       font-size: 1.2rem;
     }
   }
+
+
+
+  .flex{
+    display: flex;
+    justify-content: center;
+  }
